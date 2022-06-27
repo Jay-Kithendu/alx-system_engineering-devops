@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "\"(Ôo)'"
+wk 'FNR==3 {print}' iacta
